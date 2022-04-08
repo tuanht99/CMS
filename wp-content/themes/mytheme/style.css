@@ -11,3 +11,6 @@ Tested up to: 5.4
 Requires PHP: 7.0
 Text Domain: mytheme
 */
+body{
+    margin-top: 50px;
+}

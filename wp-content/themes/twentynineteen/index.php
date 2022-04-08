@@ -30,7 +30,7 @@ get_header();
 			}
 
 			// Previous/next page navigation.
-			twentynineteen_the_posts_navigation();
+			// twentynineteen_the_posts_navigation();
 
 		} else {
 
